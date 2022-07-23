@@ -1,1 +1,1 @@
-# Naruto-Wordle
+# Narudle
