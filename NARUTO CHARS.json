@@ -1,0 +1,2092 @@
+[
+		{
+			"Name": "A (4th Raikage)",
+			"Age": 47,
+			"Sex": "M",
+			"Height": 198.2,
+			"Rank": ["Kage"],
+			"Chakra": ["Lightning", "Earth", "Water"],
+			"Arc": "Pain's Assault",
+			"Affiliation": ["Kumogakure", "Allied Shinobi Forces"]		
+		},
+		{
+			"Name": "A (3rd Raikage)",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 205,
+			"Rank": ["Kage"],
+			"Chakra": ["Lightning", "Earth", "Fire"],
+			"Arc": "Fourth Shinobi World War: Countdown",
+			"Affiliation": ["Kumogakure"] 
+		},
+		{
+			"Name": "Akamaru (Part 1)",
+			"Age": 4,
+			"Sex": "M",
+			"Height": 29.1,
+			"Rank": ["Ninken"],
+			"Chakra": ["None"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konahagakure"]
+		},
+		{
+			"Name": "Akamaru (Part 2)",
+			"Age": 7,
+			"Sex": "M",
+			"Height": 127.2,
+			"Rank": ["Ninken"],
+			"Chakra": ["None"],
+			"Arc": "Tenchi Bridge Reconnaissance Mission",
+			"Affiliation": ["Konahagakure", "Allied Shinobi Forces"] 
+		},
+		{
+			"Name": "Anko Mitarashi",
+			"Age": 28,
+			"Sex": "F",
+			"Height": 167,
+			"Rank": ["Jonin"],
+			"Chakra": ["Fire", "Yin"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure", "Ryuchi Cave", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Ao",
+			"Age": 46,
+			"Sex": "M",
+			"Height": 182,
+			"Rank": ["Jonin"],
+			"Chakra": ["Water", "Yin"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Kiragakure", "Allied Shinobi Forces", "Kara"]
+		},
+		{
+			"Name": "Aoba Yamashiro",
+			"Age": 34,
+			"Sex": "M",
+			"Height": 178,
+			"Rank": ["Jonin"],
+			"Chakra": ["Fire"],
+			"Arc": "Konaha Crush",
+			"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Asuma Sarutobi",
+			"Age": -131,
+			"Sex": "M",
+			"Height": 190.8,
+			"Rank": ["Jonin"],
+			"Chakra": ["Wind", "Fire"],
+			"Arc": "Prologue - Land of Waves",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Asura Otsutsuki",
+			"Age": -1,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Sage"],
+			"Chakra": ["Wood", "Wind", "Lightning", "Earth", "Water", "Fire", "Yin", "Yang", "Yin-Yang"],
+			"Arc": "Kaguya Otsutsuki Strikes",
+			"Affiliation": ["Land of Ancestors"]
+		},
+		{
+			"Name": "Ameyuri Ringo",
+			"Age": -1,
+			"Sex": "F",
+			"Height": 143.5,
+			"Rank": ["Jonin", "Seven Ninja Swordsmen of the Mist"],
+			"Chakra": ["Lightning"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Kirigakure"]
+		},
+		{
+			"Name": "Baki",
+			"Age": 34,
+			"Sex": "M",
+			"Height": 188.2,
+			"Rank": ["Jonin"],
+			"Chakra": ["Wind"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Sunagakure"]
+		},
+		{
+			"Name": "Blue B",
+			"Age": -122,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Jinchuriki"],
+			"Chakra": ["Lightning"],
+			"Arc": "Fourth Shinobi World War: Countdown",
+			"Affiliation": ["Kumogakure"]
+		},
+		{
+			"Name": "Boro",
+			"Age": -1,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["None"],
+			"Chakra": ["Lava", "Fire", "Earth", "Water", "Yin"],
+			"Arc": "Kara Actuation Arc",
+			"Affiliation": ["Kara"]
+		},
+		{
+			"Name": "Boruto Uzumaki",
+			"Age": 12,
+			"Sex": "M",
+			"Height": 145,
+			"Rank": ["Genin"],
+			"Chakra": ["Lightning", "Water", "Wind", "Jogan"],
+			"Arc": "Academy Entrance Arc",
+			"Affiliation": ["Konohagakure", "Ryuchi Cave"]
+		},
+		{
+			"Name": "C",
+			"Age": 26,
+			"Sex": "M",
+			"Height": 172.2,
+			"Rank": ["Jonin"],
+			"Chakra": ["Lightning", "Yin"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Kumogakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Chiyo",
+			"Age": -173,
+			"Sex": "F",
+			"Height": 149.1,
+			"Rank": ["Jonin"],
+			"Chakra": ["Medical"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Sunagakure"]
+		},
+		{
+			"Name": "Chocho Akimichi",
+			"Age": 12,
+			"Sex": "F",
+			"Height": 150.5,
+			"Rank": ["Genin"],
+			"Chakra": ["Lightning", "Yang"],
+			"Arc": "Academy Entrance Arc",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Choji Akimichi (Part 1)",
+			"Age": 12,
+			"Sex": "M",
+			"Height": 150.6,
+			"Rank": ["Genin"],
+			"Chakra": ["Earth", "Fire", "Yang"],
+			"Arc": "Prologue - Land of Waves",
+			"Affiliation": ["Konahagakure"]
+		},
+		{
+			"Name": "Choji Akimichi (Part 2)",
+			"Age": 16,
+			"Sex": "M",
+			"Height": 172.3,
+			"Rank": ["Chunin"],
+			"Chakra": ["Earth", "Fire", "Yang"],
+			"Arc": "Prologue - Land of Waves",
+			"Affiliation": ["Konahagakure"]
+		},
+		{
+			"Name": "Chojuro",
+			"Age": 34,
+			"Sex": "M",
+			"Height": 163.6,
+			"Rank": ["Kage"],
+			"Chakra": ["Water"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Kirigakure"] 
+		},
+		{
+			"Name": "Choza Akimichi",
+			"Age": 42,
+			"Sex": "M",
+			"Height": 183,
+			"Rank": ["Jonin"],
+			"Chakra": ["Yang"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konahagakure"]
+		},
+		{
+			"Name": "Chomei",
+			"Age": -2,
+			"Sex": "B",
+			"Height": -1,
+			"Rank": ["Tailed Beast"],
+			"Chakra": ["None"],
+			"Arc": "Pain's Assault",
+			"Affiliation": ["Taigakure"]
+		},
+		{
+			"Name": "Danzo Shimura",
+			"Age": -172,
+			"Sex": "M",
+			"Height": 170,
+			"Rank": ["Anbu"],
+			"Chakra": ["Sharingan", "Mangekyo Sharingan", "Wood", "Water", "Wind", "Fire", "Earth", "Yin", "Yang"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Konahagakure", "Root"]
+		},
+		{
+			"Name": "Dan Kato",
+			"Age": -127,
+			"Sex": "M",
+			"Height": 180.2,
+			"Rank": ["Jonin"],
+			"Chakra": ["Fire", "Wind", "Earth", "Yin", "Yang"],
+			"Arc": "Search for Tsunade",
+			"Affiliation": ["Konahagakure"]
+		},
+		{
+			"Name": "Darui",
+			"Age": 26,
+			"Sex": "M",
+			"Height": 185,
+			"Rank": ["Kage"],
+			"Chakra": ["Storm", "Water", "Lightning", "Wind"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Kumogakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Deidara",
+			"Age": -119,
+			"Sex": "M",
+			"Height": 166,
+			"Rank": ["S-Rank"],
+			"Chakra": ["Explosion", "Earth", "Lightning"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Akatsuki", "Iwagakure"]
+		},
+		{
+			"Name": "Ebisu",
+			"Age": 32,
+			"Sex": "M",
+			"Height": 181.4,
+			"Rank": ["Jonin"],
+			"Chakra": ["Fire"],
+			"Arc": "Prologue - Land of Waves",
+			"Affiliation": ["Konahagakure"]
+		},
+		{
+			"Name": "Ensui Nara",
+			"Age": 37,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Jonin"],
+			"Chakra": ["Yin"],
+			"Arc": "Fourth Shinohi World War: Confrontation",
+			"Affiliation": ["Konahagakure"]
+		},
+		{
+			"Name": "Fugaku Uchiha",
+			"Age": -140,
+			"Sex": "M",
+			"Height": 175.3,
+			"Rank": ["Jonin"],
+			"Chakra": ["Sharingan", "Mangekyo Sharingan", "Fire", "Yin"],
+			"Arc": "Search for Tsunade",
+			"Affiliation": ["Konahagakure"]
+		},
+		{
+			"Name": "Fuguki Suikazan",
+			"Age": -136,
+			"Sex": "M",
+			"Height": 249.1,
+			"Rank": ["Jonin", "Seven Ninja Swordsmen of the Mist"],
+			"Chakra": ["None"],
+			"Arc": "Fourth Shinobi World War: Countdown",
+			"Affiliation": ["Kirigakure"]
+		},
+		{
+			"Name": "Fukasaku",
+			"Age": -2,
+			"Sex": "M",
+			"Height": 25.3,
+			"Rank": ["Sage", "Summon", "Toad"],
+			"Chakra": ["Wind", "Water", "Yin"],
+			"Arc": "Tale of Jiraiya the Gallant",
+			"Affiliation": ["Mount Myoboku", "Konahagakure"]
+		},
+		{
+			"Name": "Fu",
+			"Age": -1,
+			"Sex": "F",
+			"Height": 160,
+			"Rank": ["Genin", "Jinchuriki"],
+			"Chakra": ["None"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Takigakure"]
+		},
+		{
+			"Name": "Fu Yamanaka",
+			"Age": -119,
+			"Sex": "M",
+			"Height": 180,
+			"Rank": ["Anbu"],
+			"Chakra": ["None"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Konahagakure", "Root"]
+		},
+		{
+			"Name": "Gaara (Part 1)",
+			"Age": 12,
+			"Sex": "M",
+			"Height": 146.1,
+			"Rank": ["Genin", "Jinchuriki"],
+			"Chakra": ["Magnet", "Earth"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Sunagakure"]
+		},
+		{
+			"Name": "Gaara (Part 2)",
+			"Age": 16,
+			"Sex": "M",
+			"Height": 166.1,
+			"Rank": ["Kage"],
+			"Chakra": ["Magnet", "Earth", "Lightning", "Wind"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Sunagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Gamabunta",
+			"Age": -2,
+			"Sex": "M",
+			"Height": 1700,
+			"Rank": ["Summon", "Toad"],
+			"Chakra": ["Water"],
+			"Arc": "Prologue - Land of Waves",
+			"Affiliation": ["Mount Myoboku", "Konahagakure"]
+		},
+		{
+			"Name": "Gamahiro",
+			"Age": -2,
+			"Sex": "M",
+			"Height": 1900,
+			"Rank": ["Summon", "Toad"],
+			"Chakra": ["None"],
+			"Arc": "Konaha Crush",
+			"Affiliation": ["Mount Myoboku", "Konahagakure"]
+		},
+		{
+			"Name": "Gamaken",
+			"Age": -2,
+			"Sex": "M",
+			"Height": 1900,
+			"Rank": ["Summon", "Toad"],
+			"Chakra": ["None"],
+			"Arc": "Tale of Jiraiya the Gallant",
+			"Affiliation": ["Mount Myoboku", "Konahagakure"]
+		},
+		{
+			"Name": "Gamakichi",
+			"Age": -2,
+			"Sex": "M",
+			"Height": 1690,
+			"Rank": ["Sage", "Summon", "Toad"],
+			"Chakra": ["Water", "Fire"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Mount Myoboku", "Konahagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Gari",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 173.6,
+			"Rank": ["Jonin"],
+			"Chakra": ["Explosion", "Earth", "Lightning"],
+			"Arc": "Fourth Shinobi World War: Countdown",
+			"Affiliation": ["Iwagakure"]
+		},
+		{
+			"Name": "Gengetsu Hozuki",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 186.6,
+			"Rank": ["Kage"],
+			"Chakra": ["Water", "Fire", "Earth", "Lightning", "Yin", "Yang"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Kirigakure"]
+		},
+		{
+			"Name": "Gyuki",
+			"Age": -2,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Tailed Beast"],
+			"Chakra": ["None"],
+			"Arc": "Fated Battle Between Brothers",
+			"Affiliation": ["Kumogakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Ginkaku",
+			"Age": -144,
+			"Sex": "M",
+			"Height": 177.9,
+			"Rank": ["S-Rank", "Jinchuriki"],
+			"Chakra": ["None"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Kumogakure"]
+		},
+		{
+			"Name": "Hagoromo Otsutsuki",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 186,
+			"Rank": ["Jinchuriki", "Sage"],
+			"Chakra": ["Fire", "Wind", "Earth", "Lightning", "Water", "Yin", "Yang", "Yin-Yang", "Sharingan", "Mangekyo Sharingan", "Rinnegan"],
+			"Arc": "Fourth Shinobi World War: Climax",
+			"Affiliation": ["Land of Ancestors", "Mount Myoboku"]
+		},
+		{
+			"Name": "Haku",
+			"Age": -115,
+			"Sex": "M",
+			"Height": 155.9,
+			"Rank": ["Jonin"],
+			"Chakra": ["Ice", "Water", "Wind"],
+			"Arc": "Prologue - Land of Waves",
+			"Affiliation": ["Kirigakure"]
+		},
+		{
+			"Name": "Hamura Otsutsuki",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 185,
+			"Rank": ["Sage"],
+			"Chakra": ["Fire", "Wind", "Earth", "Lightning", "Water", "Yin", "Yang", "Yin-Yang", "Byakugan", "Tenseigan"],
+			"Arc": "Birth of the Ten-Tails' Jinchuriki",
+			"Affiliation": ["Land of Ancestors", "Mount Myoboku", "Moon"]
+		},
+		{
+			"Name": "Hana Inuzuka",
+			"Age": 18,
+			"Sex": "F",
+			"Height": 170.3,
+			"Rank": ["Chunin"],
+			"Chakra": ["None"],
+			"Arc": "Konoha Crush",
+			"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Han",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 228.3,
+			"Rank": ["Jinchuriki"],
+			"Chakra": ["Boil", "Fire", "Water"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Iwagakure"]
+		},
+		{
+			"Name": "Hanabi Hyuga",
+			"Age": 14,
+			"Sex": "F",
+			"Height": 150,
+			"Rank": ["Genin"],
+			"Chakra": ["Byakugan"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konahagakure"]
+		},
+		{
+        	"Name": "Hashirama Senju",
+        	"Age": -1,
+        	"Sex": "M",
+        	"Height": 185.1,
+        	"Rank": ["Kage", "Sage"],
+        	"Chakra": ["Fire", "Wind", "Earth", "Lightning", "Water", "Yin", "Yang", "Wood"],
+        	"Arc": "Konoha Crush",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Hayate Gekko",
+        	"Age": -123,
+        	"Sex": "M",
+        	"Height": 175,
+        	"Rank": ["Jonin"],
+        	"Chakra": ["None"],
+        	"Arc": "Chunin Exams",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Hiashi Hyuga",
+			"Age": 46,
+			"Sex": "M",
+			"Height": 176.5,
+			"Rank": ["Jonin"],
+			"Chakra": ["Byakugan"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+    	},
+		{
+			"Name": "Hinata Hyuga (Part 1)",
+			"Age": 13,
+			"Sex": "F",
+			"Height": 148.3,
+			"Rank": ["Genin"],
+			"Chakra": ["Byakugan"],
+			"Arc": "Prologue - Land of Waves",
+			"Affiliation": ["Konahagakure"]
+    	},
+		{
+			"Name": "Hinata Hyuga (Part 2)",
+			"Age": 16,
+			"Sex": "F",
+			"Height": 160,
+			"Rank": ["Chunin"],
+			"Chakra": ["Byakugan", "Fire", "Lightning"],
+			"Arc": "Prologue - Land of Waves",
+			"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Hidan",
+        	"Age": -2,
+        	"Sex": "M",
+        	"Height": 177.1,
+        	"Rank": ["S-Rank"],
+        	"Chakra": ["None"],
+        	"Arc": "Akatsuki Supression Mission",
+        	"Affiliation": ["Akatsuki"]
+    	},
+		{
+        	"Name": "Hiruzen Sarutobi",
+        	"Age": -169,
+        	"Sex": "M",
+        	"Height": 163.1,
+        	"Rank": ["Kage"],
+        	"Chakra": ["Fire", "Wind", "Earth", "Lightning", "Water", "Yin", "Yang"],
+        	"Arc": "Prologue - Land of Waves",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+			"Name": "Hizashi Hyuga",
+			"Age": -132,
+			"Sex": "M",
+			"Height": 176.5,
+			"Rank": ["Jonin"],
+			"Chakra": ["Byakugan"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Himawari Uzumaki",
+        	"Age": 10,
+        	"Sex": "F",
+        	"Height": 138,
+        	"Rank": ["None"],
+        	"Chakra": ["Byakugan"],
+        	"Arc": "Academy Entrance Arc",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Hanzo",
+        	"Age": -1,
+        	"Sex": "M",
+        	"Height": 177,
+        	"Rank": ["None"],
+        	"Chakra": ["Fire"],
+        	"Arc": "Tale of Jiraiya the Gallant",
+        	"Affiliation": ["Amegakure"]
+    	},
+		{
+        	"Name": "Jiraiya",
+        	"Age": -154,
+        	"Sex": "M",
+        	"Height": 191.2,
+        	"Rank": ["Jonin", "Sage"],
+        	"Chakra": ["Fire", "Earth", "Wind", "Water", "Yin", "Yang"],
+        	"Arc": "Chunin Exams",
+        	"Affiliation": ["Konahagakure", "Mount Myoboku"]
+    	},
+		{
+        	"Name": "Jugo",
+        	"Age": 19,
+        	"Sex": "M",
+        	"Height": 202.1,
+        	"Rank": ["Sage"], 
+        	"Chakra": ["Wind", "Earth", "Water", "Yang", "Curse Mark"],
+        	"Arc": "Itachi Pursuit Mission",
+        	"Affiliation": ["Taka", "Akatsuki", "Otogakure"]
+    	},
+		{
+        	"Name": "Juzo Biwa",
+        	"Age": -131,
+        	"Sex": "M",
+        	"Height": -1,
+        	"Rank": ["Jonin", "Seven Ninja Swordsmen of the Mist"],
+        	"Chakra": ["Water"],
+        	"Arc": "Birth of the Ten-Tails' Jinchuriki",
+        	"Affiliation": ["Akatsuki", "Kirigakure"]
+    	},
+		{
+        	"Name": "Jinin Akebino",
+        	"Age": -141,
+        	"Sex": "M",
+        	"Height": 179,
+        	"Rank": ["Jonin", "Seven Ninja Swordsmen of the Mist"],
+        	"Chakra": ["None"],
+        	"Arc": "Fourth Shinobi World War: Confrontation",
+        	"Affiliation": ["Kirigakure"]
+    	},
+		{
+        	"Name": "Jinpachi Munashi",
+        	"Age": -1,
+        	"Sex": "M",
+        	"Height": 172,
+        	"Rank": ["Jonin", "Seven Ninja Swordsmen of the Mist"],
+        	"Chakra": ["None"],
+        	"Arc": "Fourth Shinobi World War: Confrontation",
+        	"Affiliation": ["Kirigakure"] 
+    	},
+		{
+        	"Name": "Jirobo",
+        	"Age": -114,
+        	"Sex": "M",
+        	"Height": 181.3,
+        	"Rank": ["None"],
+        	"Chakra": ["Curse Mark", "Earth"],
+        	"Arc": "Konaha Crush",
+        	"Affiliation": ["Sound Four", "Otogakure"]
+    	},
+		{
+        	"Name": "Ibiki Morino",
+        	"Age": 32,
+        	"Sex": "M",
+        	"Height": 193.5,
+        	"Rank": ["Jonin"],
+        	"Chakra": ["None"],
+        	"Arc": "Chunin Exams",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Indra Otsutsuki",
+        	"Age": -1,
+        	"Sex": "M",
+        	"Height": -1,
+        	"Rank": ["None"],
+        	"Chakra": ["Fire", "Lightning", "Yin", "Sharingan", "Mangekyo Sharingan"],
+        	"Arc": "Kaguya Otsutsuki Strikes",
+        	"Affiliation": ["Land of Ancestors"]
+    	},
+		{
+        	"Name": "Ino Yamanaka (Part 1)",
+        	"Age": 13,
+        	"Sex": "F",
+        	"Height": 151.2,
+        	"Rank": ["Genin"],
+        	"Chakra": ["Medical"],
+        	"Arc": "Prologue - Land of Waves",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Ino Yamanaka (Part 2)",
+        	"Age": 17,
+        	"Sex": "F",
+        	"Height": 162.2,
+        	"Rank": ["Chunin"],
+        	"Chakra": ["Medical", "Earth", "Water", "Fire", "Yin", "Yang"],
+        	"Arc": "Prologue - Land of Waves",
+        	"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Inoichi Yamanaka",
+        	"Age": -142,
+        	"Sex": "M",
+        	"Height": 180.4,
+        	"Rank": ["Jonin"],
+        	"Chakra": ["Water"],
+        	"Arc": "Chunin Exams",
+        	"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Inojin Yamanaka",
+        	"Age": 12,
+        	"Sex": "M",
+        	"Height": 152.2,
+        	"Rank": ["Genin"],
+        	"Chakra": ["Medical"],
+        	"Arc": "Academy Entrance Arc",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Iruka Umino",
+        	"Age": 26,
+        	"Sex": "M",
+        	"Height": 178,
+        	"Rank": ["Chunin"],
+        	"Chakra": ["Fire", "Water", "Yin"],
+        	"Arc": "Prologue - Land of Waves",
+        	"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Isshiki Otsutsuki",
+        	"Age": -1,
+        	"Sex": "M",
+        	"Height": -1,
+        	"Rank": ["None"],
+        	"Chakra": ["Yin", "Fire", "Byakugan", "Isshiki's Dojutsu"],
+        	"Arc": "Kawaki Arc",
+        	"Affiliation": ["Kara"] 
+    	},
+		{
+        	"Name": "Itachi Uchiha",
+        	"Age": -121,
+        	"Sex": "M",
+        	"Height": 178,
+        	"Rank": ["S-Rank", "Anbu"],
+        	"Chakra": ["Fire", "Wind", "Water", "Yin", "Yang", "Sharingan", "Mangekyo Sharingan"],
+        	"Arc": "Konaha Crush",
+        	"Affiliation": ["Akatsuki", "Konahagakure"]
+    	},
+		{
+        	"Name": "Iwabee Yuino",
+        	"Age": 13,
+        	"Sex": "M",
+        	"Height": 167,
+        	"Rank": ["Genin"],
+        	"Chakra": ["Earth", "Medical"],
+        	"Arc": "Academy Entrance Arc",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Izuna Uchiha",
+        	"Age": -124,
+        	"Sex": "M",
+        	"Height": 174.8,
+        	"Rank": ["None"],
+        	"Chakra": ["Fire", "Yin", "Sharingan", "Mangekyo Sharingan"],
+        	"Arc": "Fated Battle Between Brothers",
+        	"Affiliation": ["None"]
+    	},
+		{
+        	"Name": "Izumo Kamizuki",
+        	"Age": 28,
+        	"Sex": "M",
+        	"Height": 169,
+        	"Rank": ["Chunin"],
+        	"Chakra": ["Water"],
+        	"Arc": "Prologue - Land of Waves",
+        	"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Kabuto Yakushi (Part 1)",
+        	"Age": 20,
+        	"Sex": "M",
+        	"Height": 176.2,
+        	"Rank": ["Genin", "Medical"],
+        	"Chakra": ["Earth", "Water", "Yin", "Yang", "Wind"],
+        	"Arc": "Chunin Exams",
+        	"Affiliation": ["Konahagakure", "Root", "Otogakure"]
+    	},
+		{
+        	"Name": "Kabuto Yakushi (Part 2)",
+        	"Age": 24,
+        	"Sex": "M",
+        	"Height": 177,
+        	"Rank": ["Medical", "Sage"],
+        	"Chakra": ["Earth", "Water", "Yin", "Yang", "Wind", "Curse Mark", "Shikotsumyaku"],
+        	"Arc": "Tenchi Bridge Reconnaissance Mission",
+        	"Affiliation": ["Otogakure", "Ryuchi Cave", "Akatsuki"]
+    	},
+		{
+        	"Name": "Kaguya Otsutsuki",
+        	"Age": -1,
+        	"Sex": "F",
+        	"Height": -1,
+        	"Rank": ["None"],
+        	"Chakra": ["Fire", "Wind", "Earth", "Lightning", "Water", "Yin", "Yang", "Yin-Yang", "Byakugan", "Rinne Sharingan"],
+        	"Arc": "Kaguya Otsutsuki Strikes",
+        	"Affiliation": ["Land of Ancestors"]
+    	},
+		{
+        	"Name": "Kakashi Hatake (Part 1)",
+        	"Age": 27,
+        	"Sex": "M",
+        	"Height": 181,
+        	"Rank": ["Jonin", "Anbu"],
+        	"Chakra": ["Sharingan", "Fire", "Wind", "Earth", "Lightning", "Water", "Yin", "Yang"],
+        	"Arc": "Prologue - Land of Waves",
+        	"Affiliation": ["Konahagakure", "Anbu"]
+    	},
+		{
+        	"Name": "Kakashi Hatake (Part 2)",
+        	"Age": 31,
+        	"Sex": "M",
+        	"Height": 181,
+        	"Rank": ["Jonin", "Kage"],
+        	"Chakra": ["Sharingan", "Fire", "Wind", "Earth", "Lightning", "Water", "Yin", "Yang", "Mangekyo Sharingan"],
+        	"Arc": "Kazekage Rescue Mission",
+        	"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Kakuzu",
+        	"Age": -191,
+        	"Sex": "M",
+        	"Height": 185,
+        	"Rank": ["S-Rank"],
+        	"Chakra": ["Fire", "Wind", "Earth", "Lightning", "Water"],
+        	"Arc": "Akatsuki Supression Mission",
+        	"Affiliation": ["Akatsuki", "Takigakure"]
+    	},
+		{
+        	"Name": "Kankuro (Part 1)",
+        	"Age": 14,
+        	"Sex": "M",
+        	"Height": 167,
+        	"Rank": ["Genin"],
+        	"Chakra": ["Wind", "Earth"],
+        	"Arc": "Chunin Exams",
+        	"Affiliation": ["Sunagakure"]
+    	},
+		{
+        	"Name": "Kankuro (Part 2)",
+        	"Age": 18,
+        	"Sex": "M",
+        	"Height": 175,
+        	"Rank": ["Jonin"],
+        	"Chakra": ["Wind", "Earth", "Water", "Lightning"],
+        	"Arc": "Kazekage Rescue Mission",
+        	"Affiliation": ["Sunagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Karin",
+        	"Age": 17,
+        	"Sex": "F",
+        	"Height": 162.6,
+        	"Rank": ["Genin"],
+        	"Chakra": ["Earth", "Water", "Yin", "Yang"],
+        	"Arc": "Itachi Pursuit Mission",
+        	"Affiliation": ["Kusagakure", "Otogakure", "Taka", "Akatsuki"]
+    	},
+		{
+        	"Name": "Karui",
+        	"Age": "17",
+        	"Sex": "F",
+        	"Height": 166,
+        	"Rank": ["Chunin"],
+        	"Chakra": ["Lightning"],
+        	"Arc": "Pain's Assault",
+        	"Affiliation": ["Kumogakure", "Allied Shinobi Forces"] 
+    	},
+		{
+        	"Name": "Katsuyu",
+        	"Age": -2,
+        	"Sex": "B",
+        	"Height": -1,
+        	"Rank": ["Slug", "Summon"], 
+        	"Chakra": ["None"],
+        	"Arc": "Search for Tsunade",
+        	"Affiliation": ["Konahagakure", "Allied Shinobi Forces", "Shikkotsu Forest"]
+    	},
+		{
+        	"Name": "Kawaki",
+        	"Age": 13,
+        	"Sex": "M",
+        	"Height": 183,
+        	"Rank": ["Genin"],
+        	"Chakra": ["Fire", "Isshiki's Dojutsu"],
+        	"Arc": "Academy Entrance Arc",
+        	"Affiliation": ["Konahagakure", "Kara"]
+    	},
+		{
+        	"Name": "Kiba Inuzuka (Part 1)",
+        	"Age": 12,
+        	"Sex": "M",
+        	"Height": 151.2,
+        	"Rank": ["Genin"],
+        	"Chakra": ["Earth", "Yang"],
+        	"Arc": "Prologue - Land of Waves",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Kiba Inuzuka (Part 2)",
+        	"Age": 16,
+        	"Sex": "M",
+        	"Height": 169.1,
+        	"Rank": ["Chunin"],
+        	"Chakra": ["Earth", "Yang"],
+        	"Arc": "Tenchi Bridge Reconnaissance Mission",
+        	"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Kidomaru",
+        	"Age": -114,
+        	"Sex": "M",
+        	"Height": 159.2,
+        	"Rank": ["None"],
+        	"Chakra": ["Curse Mark"],
+        	"Arc": "Konaha Crush",
+        	"Affiliation": ["Otogakure", "Sound Four"]
+    	},
+		{
+        	"Name": "Killer B",
+        	"Age": 36,
+        	"Sex": "M",
+        	"Height": 192,
+        	"Rank": ["Jinchuriki"],
+        	"Chakra": ["Lightning", "Water", "Fire", "Yang"],
+        	"Arc": "Pain's Assult",
+        	"Affiliation": ["Kumogakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Kimimaro",
+        	"Age": -115,
+        	"Sex": "M",
+        	"Height": 166.1,
+        	"Rank": ["None"],
+        	"Chakra": ["Curse Mark", "Shikotsumyaku"],
+        	"Arc": "Sasuke Recovery Mission",
+        	"Affiliation": ["Otogakure", "Sound Four"]
+    	},
+		{
+        	"Name": "Kin Tsuchi",
+        	"Age": -114,
+        	"Sex": "F",
+        	"Height": 150,
+        	"Rank": ["Genin"],
+        	"Chakra": ["Yin"],
+        	"Arc": "Chunin Exams",
+        	"Affiliation": ["Otogakure"]
+    	},
+		{
+			"Name": "Kinkaku",
+			"Age": -144,
+			"Sex": "M",
+			"Height": 183.9,
+			"Rank": ["S-Rank", "Jinchuriki"],
+			"Chakra": ["None"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Kumogakure"]
+		},
+		{
+        	"Name": "Kinshiki Otsutsuki",
+        	"Age": -1,
+        	"Sex": "M",
+        	"Height": 231,
+        	"Rank": ["None"],
+        	"Chakra": ["Lightning", "Byakugan"],
+        	"Arc": "Academy Entrance Arc",
+        	"Affiliation": ["None"]
+    	},
+		{
+        	"Name": "Kisame Hoshigaki",
+        	"Age": -133,
+        	"Sex": "M",
+        	"Height": 195,
+        	"Rank": ["S-Rank", "Seven Ninja Swordsmen of the Mist"],
+        	"Chakra": ["Water", "Fire", "Wind", "Earth"],
+        	"Arc": "Search for Tsunade",
+        	"Affiliation": ["Kirigakure", "Akatsuki"]
+    	},
+		{
+        	"Name": "Kitsuchi",
+        	"Age": 44,
+        	"Sex": "M",
+        	"Height": 217,
+        	"Rank": ["Jonin"],
+        	"Chakra": ["Earth"],
+        	"Arc": "Fourth Shinobi World War: Confrontation",
+        	"Affiliation": ["Iwagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Koji Kashin",
+        	"Age": 50,
+        	"Sex": "M",
+        	"Height": 191.2,
+        	"Rank": ["Sage"],
+        	"Chakra": ["Fire", "Earth", "Yin"],
+        	"Arc": "Versus Momoshiki",
+        	"Affiliation": ["Kara", "Mount Myoboku"]
+    	},
+		{
+        	"Name": "Konan",
+        	"Age": -135,
+        	"Sex": "F",
+        	"Height": 169.4,
+        	"Rank": ["S-Rank"],
+        	"Chakra": ["Wind", "Earth", "Water", "Yang"],
+        	"Arc": "Itachi Pursuit Mission",
+        	"Affiliation": ["Akatsuki", "Amegakure"]
+    	},
+		{
+        	"Name": "Konahamaru Sarutobi (Part 2)",
+        	"Age": 12,
+        	"Sex": "M",
+        	"Height": 141.1,
+        	"Rank": ["Genin"],
+        	"Chakra": ["Fire", "Yang"],
+        	"Arc": "Kazekage Rescue Mission",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Konahamaru Sarutobi (Boruto)",
+        	"Age": 27,
+        	"Sex": "M",
+        	"Height": 177.1,
+        	"Rank": ["Jonin"],
+        	"Chakra": ["Fire", "Yang", "Wind", "Lightning"],
+        	"Arc": "Academy Entrance Arc",
+        	"Affiliation": ["Konahagakure", "Mount Myoboku"]
+    	},
+		{
+        	"Name": "Kotetsu Hagane",
+        	"Age": 28,
+        	"Sex": "M",
+        	"Height": 167.5,
+        	"Rank": ["Chunin"],
+        	"Chakra": ["Yin"],
+        	"Arc": "Chunin Exams",
+        	"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Kurama",
+        	"Age": -1,
+        	"Sex": "B",
+        	"Height": -1,
+        	"Rank": ["Sage", "Tailed Beast"],
+        	"Chakra": ["Fire", "Wind"],
+        	"Arc": "Prologue - Land of Waves",
+        	"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Kurenai Yuhi",
+        	"Age": 31,
+        	"Sex": "F",
+        	"Height": 169.1,
+        	"Rank": ["Jonin"],
+        	"Chakra": ["Yin"],
+        	"Arc": "Chunin Exams",
+        	"Affiliation": ["Konahagakure"]
+    	},
+		{
+        	"Name": "Kurotsuchi",
+        	"Age": 33,
+        	"Sex": "F",
+        	"Height": 163.6,
+        	"Rank": ["Kage"],
+        	"Chakra": ["Lava", "Fire", "Water", "Earth", "Yin"],
+        	"Arc": "Five Kage Summit",
+        	"Affiliation": ["Iwagakure", "Allied Shinobi Forces"]
+    	},
+		{
+        	"Name": "Kushina Uzumaki",
+        	"Age": -124,
+        	"Sex": "F",
+        	"Height": 165,
+        	"Rank": ["Jinchuriki"],
+        	"Chakra": ["Wind", "Water", "Yin"],
+        	"Arc": "Tale of Jiraiya the Gallant",
+        	"Affiliation": ["Konahagakure"]
+    	},	
+		{
+			"Name": "Kushimaru Kuriarare",
+			"Age": 24,
+			"Sex": "M",
+			"Height": 213,
+			"Rank": ["Jonin", "Seven Ninja Swordsmen of the Mist"],
+			"Chakra": ["None"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Kirigakure"] 
+		},
+		{
+			"Name": "Madara Uchiha",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 179,
+			"Rank": ["Jinchuriki"],
+			"Chakra": ["Fire", "Wind", "Lightning", "Earth", "Water", "Wood", "Storm", "Yin", "Yang", "Yin-Yang", "Sharingan", "Mangekyo Sharingan", "Eternal Mangekyo Sharingan", "Rinnegan", "Rinne Sharingan"],
+			"Arc": "Fourth Shinobi World War: Countdown",
+			"Affiliation": ["Konohagakure", "Akatsuki"]
+		},
+		{
+			"Name": "Matatabi",
+			"Age": -2,
+			"Sex": "B",
+			"Height": -1,
+			"Rank": ["Tailed Beast"],
+			"Chakra": ["Fire"],
+			"Arc": "Akatsuki Suppression Mission",
+			"Affiliation": ["Kumogakure"]
+		},	
+		{
+			"Name": "Matsuri",
+			"Age": 17,
+			"Sex": "F",
+			"Height": 158,
+			"Rank": ["Genin"],
+			"Chakra": ["Wind"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Sunagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Mei Terumi",
+			"Age": 31,
+			"Sex": "F",
+			"Height": 174,
+			"Rank": ["Kage"],
+			"Chakra": ["Lava", "Boil", "Water", "Fire", "Lightning", "Earth Release"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Kirigakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Meizu",
+			"Age": 25,
+			"Sex": "M",
+			"Height": 178,
+			"Rank": ["Chunin"],
+			"Chakra": ["Water"],
+			"Arc": "Prologue - Land of Waves",
+			"Affiliation": ["Kirigakure"]
+		},
+		{
+			"Name": "Might Guy (Part 1)",
+			"Age": 27,
+			"Sex": "M",
+			"Height": 184,
+			"Rank": ["Jonin"],
+			"Chakra": ["Fire", "Lightning"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Might Guy (Part 2)",
+			"Age": 31,
+			"Sex": "M",
+			"Height": 184,
+			"Rank": ["Jonin"],
+			"Chakra": ["Fire", "Lightning"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Minato Namikaze",
+			"Age": -124,
+			"Sex": "M",
+			"Height": 179.2,
+			"Rank": ["Kage", "Sage"],
+			"Chakra": ["Fire", "Wind", "Lightning", "Yin", "Yang"],
+			"Arc": "Pain's Assault",
+			"Affiliation": ["Konohagakure", "Mount Myoboku"]
+		},
+		{
+			"Name": "Minato Namikaze (KCM)",
+			"Age": -124,
+			"Sex": "M",
+			"Height": 179.2,
+			"Rank": ["Kage", "Sage"], 
+			"Chakra": ["Fire", "Wind", "Lightning", "Yin", "Yang", "Nature", "Jinchuriki"],
+			"Arc": "Fourth Shinobi World War: Climax",
+			"Affiliation": ["Konohagakure", "Mount Myoboku", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Mirai Sarutobi",
+			"Age": 2,
+			"Sex": "F",
+			"Height": 83,
+			"Rank": ["Chunin"],
+			"Chakra": ["Wind", "Fire", "Lightning", "Yin"],
+			"Arc": "Blank Period",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Misumi Tsurugi",
+			"Age": 23,
+			"Sex": "M",
+			"Height": 174.7,
+			"Rank": ["Genin"],
+			"Chakra": ["Water"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure", "Otogakure"]
+		},
+		{
+			"Name": "Mitsuki",
+			"Age": 12,
+			"Sex": "M",
+			"Height": 149,
+			"Rank": ["Genin", "Sage"],
+			"Chakra": ["Medical", "Wind", "Lightning"],
+			"Arc": "New Era",
+			"Affiliation": ["Otogakure", "Ryuchi Cave", "Konohagakure"]
+		},
+		{
+			"Name": "Mizuki",
+			"Age": 27,
+			"Sex": "M",
+			"Height": 179.4,
+			"Rank": ["Chunin"],
+			"Chakra": ["Earth", "Yin"],
+			"Arc": "Prologue — Land of Waves",
+			"Affiliation": ["Konohagakure", "Otogakure"]
+		},
+		{
+			"Name": "Moegi Kazamatsuri (Part 2)",
+			"Age": 12,
+			"Sex": "F",
+			"Height": 139,
+			"Rank": ["Genin"],
+			"Chakra": ["Wind", "Earth", "Water"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Momoshiki Otsutsuki",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 176,
+			"Rank": ["None"],
+			"Chakra": ["Wind", "Lightning", "Earth", "Water", "Fire", "Yin", "Wood"],
+			"Arc": "New Era",
+			"Affiliation": ["None"]
+		},
+		{
+			"Name": "Monkey King: Enma",
+			"Age": -2,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Summon"],
+			"Chakra": ["None"],
+			"Arc": "Konoha Crush",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Mu",
+			"Age": "-1",
+			"Sex": "M",
+			"Height": 173,
+			"Rank": ["Kage"],
+			"Chakra": ["Dust", "Earth", "Water", "Fire", "Wind", "Lightning", "Yang"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Iwagakure"]
+		},
+		{
+			"Name": "Obito Uchiha",
+			"Age": 31,
+			"Sex": "M",
+			"Height": 182,
+			"Rank": ["Chunin"],
+			"Chakra": ["Fire", "Wind", "Lightning", "Earth", "Water", "Wood", "Yin", "Yang", "Yin-Yang", "Rinnegan", "Sharingan", "Mangekyo Sharingan"],
+			"Arc": "Kazakage Rescue Mission",
+			"Affiliation": ["Konohagakure", "Akatsuki", "Kirigakure"]
+		},
+		{
+			"Name": "Oboro",
+			"Age": 17,
+			"Sex": "M",
+			"Height": 163.4,
+			"Rank": ["Genin"],
+			"Chakra": ["Earth", "Yin", "Water"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Amegakure"]
+		},
+		{
+			"Name": "Omoi",
+			"Age": 16,
+			"Sex": "M",
+			"Height": 170,
+			"Rank": ["Chunin"],
+			"Chakra": ["Lightning"],
+			"Arc": "Pain's Assault",
+			"Affiliation": ["Kumogakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Orochimaru",
+			"Age": "50",
+			"Sex": "B",
+			"Height": 179.4,
+			"Rank": ["Anbu", "Jonin"],
+			"Chakra": ["Wind", "Lighting", "Water", "Earth", "Fire", "Wood", "Yin", "Yang", "Curse Mark", "Shikotsumyaku"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure", "Root", "Akatsuki", "Otogakure", "Ryuchi Cave"]
+		},
+		{
+			"Name": "Pakkun",
+			"Age": 0,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Summon"],
+			"Chakra": ["None"],
+			"Arc": "Prologue — Land of Waves",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Pakura",
+			"Age": -1,
+			"Sex": "F",
+			"Height": 166.3,
+			"Rank": ["Jonin"],
+			"Chakra": ["Scorch", "Fire", "Wind"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Sunagakure"]
+		},
+		{
+			"Name": "Isobu",
+			"Age": -2,
+			"Sex": "B",
+			"Height": -1,
+			"Rank": ["Tailed Beast"],
+			"Chakra": ["Water", "Yin"],
+			"Arc": "Akatsuki Suppression Mission",
+			"Affiliation": ["Kirigakure"]
+		},
+		{
+			"Name": "Raido Namiashi",
+			"Age": 31,
+			"Sex": "M",
+			"Height": 183,
+			"Rank": ["Jonin"],
+			"Chakra": ["None"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Manda",
+			"Age": -1,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Summon"],
+			"Chakra": ["None"],
+			"Arc": "Search for Tsunade",
+			"Affiliation": ["Otogakure", "Ryuchi Cave"]
+		},
+		{
+			"Name": "Mangetsu Hozuki",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 172,
+			"Rank": ["Jonin", "Seven Ninja Swordsmen of the Mist"],
+			"Chakra": ["Water"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Kirigakure"]
+		},
+		{
+			"Name": "Rin Nohara",
+			"Age": -1,
+			"Sex": "F",
+			"Height": 143,
+			"Rank": ["Chunin", "Jinchruiki"],
+			"Chakra": ["Fire", "Water", "Yang", "Medical"],
+			"Arc": "Kaguya Otsutsuki Strikes",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Rasa",
+			"Age": -140,
+			"Sex": "M",
+			"Height": 176.5,
+			"Rank": ["Kage"],
+			"Chakra": ["Magnet", "Wind", "Earth", "Water", "Yin"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Sunagakure"]
+		},
+		{
+			"Name": "Rock Lee (Part 1)",
+			"Age": 13,
+			"Sex": "M",
+			"Height": 158.5,
+			"Rank": ["Genin"],
+			"Chakra": ["None"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Rock Lee (Part 2)",
+			"Age": 17,
+			"Sex": "M",
+			"Height": 172,
+			"Rank": ["Chunin"],
+			"Chakra": ["None"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Roshi",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 149,
+			"Rank": ["None"],
+			"Chakra": ["Lava", "Fire", "Earth"],
+			"Arc": "Itachi Pursuit Mission",
+			"Affiliation": ["Iwagakure"]
+		},
+		{
+			"Name": "Zabuza Momochi",
+			"Age": -126,
+			"Sex": "M",
+			"Height": 183,
+			"Rank": ["Anbu"],
+			"Chakra": ["Water"],
+			"Arc": "Prologue — Land of Waves",
+			"Affiliation": ["Kirigakure"]
+		},
+		{
+			"Name": "Metal Lee",
+			"Age": 0,
+			"Sex": "M",
+			"Height": 150,
+			"Rank": ["Genin"],
+			"Chakra": ["None"],
+			"Arc": "Academy Entrance Arc",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Mifune",
+			"Age": 65,
+			"Sex": "M",
+			"Height": 170,
+			"Rank": ["None"],
+			"Chakra": ["None"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Land of Iron", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Zo",
+			"Age": 36,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Anbu"],
+			"Chakra": ["Lightning", "Fire", "Yin"],
+			"Arc": "Konoha Crush",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Might Duy",
+			"Age": -135,
+			"Sex": "M",
+			"Height": 186.4,
+			"Rank": ["Genin"],
+			"Chakra": ["None"],
+			"Arc": "None",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Zaku Abumi",
+			"Age": 14,
+			"Sex": "M",
+			"Height": 157.3,
+			"Rank": ["None"],
+			"Chakra": ["None"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Otogakure"]
+		},
+		{
+			"Name": "Onoki",
+			"Age": 79,
+			"Sex": "M",
+			"Height": 130,
+			"Rank": ["Kage"],
+			"Chakra": ["Lava", "Dust", "Earth", "Fire", "Wind", "Lightning", "Yang"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Allied Shinobi Forces", "Iwagakure"]
+		},
+		{
+			"Name": "Wasabi Izuno",
+			"Age": 0,
+			"Sex": "F",
+			"Height": 150,
+			"Rank": ["Chunin"],
+			"Chakra": ["None"],
+			"Arc": "Academy Entrance Arc",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "White Snake Sage",
+			"Age": -2,
+			"Sex": "F",
+			"Height": -1,
+			"Rank": ["None"],
+			"Chakra": ["Yin", "Sage"],
+			"Arc": "Mitsuki's Disappearance Arc",
+			"Affiliation": ["Ryuchi Cave"]
+		},
+		{
+			"Name": "Zetsu",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 177,
+			"Rank": ["None"],
+			"Chakra": ["Wood", "Earth", "Water", "Fire", "Wind", "Lightning", "Yin", "Yang"],
+			"Arc": "Sasuke Recovery Mission",
+			"Affiliation": ["Akatsuki"]
+		},
+		{
+			"Name": "Udon Ise (Part 2)",
+			"Age": 12,
+			"Sex": "M",
+			"Height": 142.9,
+			"Rank": ["Genin"],
+			"Chakra": ["Water"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Utakata",
+			"Age": 26,
+			"Sex": "M",
+			"Height": 179,
+			"Rank": ["None"],
+			"Chakra": ["Water", "Jinchruiki"],
+			"Arc": "Six-Tails Unleashed",
+			"Affiliation": ["Kirigakure", "Tsuchigumo Clan"]
+		},
+		{
+			"Name": "Nagato",
+			"Age": 35,
+			"Sex": "M",
+			"Height": 175.5,
+			"Rank": ["S-Rank"],
+			"Chakra": ["Rinnegan", "Fire", "Wind", "Lightning", "Earth", "Water", "Yang"],
+			"Arc": "Sasuke Recovery Mission",
+			"Affiliation": ["Akatsuki", "Amegakure"]
+		},
+		{
+			"Name": "Naruto Uzumaki (Part 1)",
+			"Age": 12,
+			"Sex": "M",
+			"Height": 145.3,
+			"Rank": ["Genin", "Jinchuriki"],
+			"Chakra": ["Wind"],
+			"Arc": "Prologue — Land of Waves",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Naruto Uzumaki (Part 2)",
+			"Age": 15,
+			"Sex": "M",
+			"Height": 166,
+			"Rank": ["Genin", "Kage", "Jinchuriki"],
+			"Chakra": ["Lava", "Magnet", "Boil", "Wind", "Lightning", "Earth", "Water", "Fire", "Lava", "Magnet", "Boil", "Yin", "Yang", "Yin-Yang"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Konohagakure", "Mount Myoboku", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Neji Hyuga (Part 1)",
+			"Age": 13,
+			"Sex": "M",
+			"Height": 159.2,
+			"Rank": ["Genin"],
+			"Chakra": ["Fire", "Earth", "Water"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Neji Hyuga (Part 2)",
+			"Age": 17,
+			"Sex": "M",
+			"Height": 172.1,
+			"Rank": ["Jonin"],
+			"Chakra": ["Fire", "Earth", "Water"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Ningame",
+			"Age": -2,
+			"Sex": "M",
+			"Height": 90,
+			"Rank": ["Summon"],
+			"Chakra": ["None"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Urashiki Otsutsuki",
+			"Age": -1,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["None"],
+			"Chakra": ["Wind", "Lightning", "Earth", "Fire", "Yin"],
+			"Arc": "Versus Momoshiki Arc",
+			"Affiliation": ["None"]
+		},
+		{
+			"Name": "Sai",
+			"Age": 17,
+			"Sex": "M",
+			"Height": 172.1,
+			"Rank": ["Anbu"],
+			"Chakra": ["Earth", "Water", "Fire", "Yang"],
+			"Arc": "Tenchi Bridge Reconnaissance Mission",
+			"Affiliation": ["Konohagakure", "Root", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Saiken",
+			"Age": -2,
+			"Sex": "B",
+			"Height": -1,
+			"Rank": ["Tailed Beast"],
+			"Chakra": ["Water"],
+			"Arc": "Six-Tails Unleashed",
+			"Affiliation": ["Kirigakure"]
+		},
+		{
+			"Name": "Sakon and Ukon",
+			"Age": 14,
+			"Sex": "M",
+			"Height": 155.1,
+			"Rank": ["None"],
+			"Chakra": ["Curse] Mark"],
+			"Arc": "Konoha Crush",
+			"Affiliation": ["Otogakure", "Sound Four"]
+		},
+		{
+			"Name": "Sakumo Hatake",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 181,
+			"Rank": ["Jonin"],
+			"Chakra": ["None"],
+			"Arc": "Pain's Assault",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Sakura Haruno (Part 1)",
+			"Age": 12,
+			"Sex": "F",
+			"Height": 148.5,
+			"Rank": ["Genin"],
+			"Chakra": ["Medical", "Yin"],
+			"Arc": "Prologue — Land of Waves",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Sakura Haruno (Part 2)",
+			"Age": 15,
+			"Sex": "F",
+			"Height": 161,
+			"Rank": ["Chunin"],
+			"Chakra": ["Medical", "Earth", "Water", "Fire", "Yin", "Yang"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Shikkotsu Forest", "Allied Shinobi Forces", "Konohagakure"]
+		},
+		{
+			"Name": "Samui",
+			"Age": 29,
+			"Sex": "F",
+			"Height": 168,
+			"Rank": ["Jonin"],
+			"Chakra": ["None"],
+			"Arc": "Pain's Assault",
+			"Affiliation": ["Allied Shinobi Forces", "Kumogakure"]
+		},
+		{
+			"Name": "Sarada Uchiha",
+			"Age": 11,
+			"Sex": "F",
+			"Height": 125,
+			"Rank": ["Chunin"],
+			"Chakra": ["Sharingan", "Lightning", "Fire", "Wind", "Yin", "Medical"],
+			"Arc": "Academy Entrance Arc",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Sasori",
+			"Age": 35,
+			"Sex": "M",
+			"Height": 164.1,
+			"Rank": ["None"],
+			"Chakra": ["None"],
+			"Arc": "Sasuke Recovery Mission",
+			"Affiliation": ["Akatsuki", "Sunagakure"]
+		},
+		{
+			"Name": "Sasuke Uchiha (Part 1)",
+			"Age": 12,
+			"Sex": "M",
+			"Height": "150.8",
+			"Rank": ["Genin"],
+			"Chakra": ["Sharingan", "Lightning", "Fire", "Yin", "Curse Mark"],
+			"Arc": "Prologue — Land of Waves",
+			"Affiliation": ["Otogakure", "Konohagakure", "Team Kakashi", "Sound Four"]
+		},
+		{
+			"Name": "Sasuke Uchiha (Part 2)",
+			"Age": 16,
+			"Sex": "M",
+			"Height": "168",
+			"Rank": ["Genin", "S-Rank"],
+			"Chakra": ["Sharingan", "Mangekyo Sharingan", "Eternal Mangekyo Sharingan", "Rinnegan", "Lightning", "Fire", "Wind", "Earth", "Water", "Yin", "Curse Mark"],
+			"Arc": "Tenchi Bridge Reconnaissance Mission",
+			"Affiliation": ["Akatsuki", "Ryuchi Cave", "Otogakure", "Konohagakure", "Team Kakashi", "Taka"]
+		},
+		{
+			"Name": "Shibi Aburame",
+			"Age": 39,
+			"Sex": "M",
+			"Height": "181.3",
+			"Rank": ["Jonin"],
+			"Chakra": ["None"],
+			"Arc": "Konoha Crush",
+			"Affiliation": ["Allied Shinobi Forces", "Konohagakure"]
+		},
+		{
+			"Name": "Shikadai Nara",
+			"Age": 12,
+			"Sex": "M",
+			"Height": 154,
+			"Rank": ["Chunin"],
+			"Chakra": ["Wind", "Yin"],
+			"Arc": "Academy Entrance Arc",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Shikaku Nara",
+			"Age": 38,
+			"Sex": "M",
+			"Height": 175.2,
+			"Rank": ["Jonin"],
+			"Chakra": ["Yin"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Shikamaru Nara (Part 1)",
+			"Age": 12,
+			"Sex": "M",
+			"Height": 150.8,
+			"Rank": ["Chunin"],
+			"Chakra": ["Yin"],
+			"Arc": "Prologue — Land of Waves",
+			"Affiliation":["Konohagakure"]
+		},
+		{
+			"Name": "Shikamaru Nara (Part 2)",
+			"Age": 15,
+			"Sex": "M",
+			"Height": 170,
+			"Rank": ["Jonin"],
+			"Chakra": ["Fire", "Earth", "Yin"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Allied Shinobi Forces", "Konohagakure"]
+		},
+		{
+			"Name": "Shima",
+			"Age": -2,
+			"Sex": "F",
+			"Height": 25,
+			"Rank": ["Summon", "Sage", "Toad"],
+			"Chakra": ["Fire", "Wind", "Yin"],
+			"Arc": "Tale of Jiraiya the Gallant",
+			"Affiliation": ["Mount Myoboku", "Konohagakure"]
+		},
+		{
+			"Name": "Shin",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 174,
+			"Rank": ["Anbu"],
+			"Chakra": ["None"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Root", "Konohagakure"]
+		},
+		{
+			"Name": "Shin Uchiha",
+			"Age": -1,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["None"],
+			"Chakra": ["Sharingan", "Mengekyo Sharingan", "Medical"],
+			"Arc": "Sarada Uchiha Arc",
+			"Affiliation": ["Otogakure", "Akatsuki"]
+		},
+		{
+			"Name": "Shinki",
+			"Age": 0,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Chunin"],
+			"Chakra": ["Magnet", "Wind", "Earth", "Lightning"],
+			"Arc": "Versus Momoshiki Arc",
+			"Affiliation": ["Sunagakure"]
+		},
+		{
+			"Name": "Shino Aburame (Part 1)",
+			"Age": 12,
+			"Sex": "M",
+			"Height": 156.2,
+			"Rank": ["Genin"],
+			"Chakra": ["Earth", "Fire", "Yang"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Shisui Uchiha",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 180,
+			"Rank": ["Anbu"],
+			"Chakra": ["Sharingan", "Mangekyo Sharingan", "Fire", "Wind", "Lightning", "Yin"],
+			"Arc": "None",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Shizune",
+			"Age": 28,
+			"Sex": "F",
+			"Height": 168,
+			"Rank": ["Jonin"],
+			"Chakra": ["Medical"],
+			"Arc": "Search for Tsunade",
+			"Affiliation": ["Allied Shinobi Forces", "Konohagakure"]
+		},
+		{
+			"Name": "Shukaku",
+			"Age": -2,
+			"Sex": "B",
+			"Height": -1,
+			"Rank": ["Tailed Beast"],
+			"Chakra": ["Magnet", "Wind", "Earth"],
+			"Arc": "Konoha Crush",
+			"Affiliation": ["Sunagakure"]
+		},
+		{
+			"Name": "Son Goku",
+			"Age": -2,
+			"Sex": "B",
+			"Height": -1,
+			"Rank": ["Tailed Beast"],
+			"Chakra": ["Sage", "Lava", "Fire", "Earth"],
+			"Arc": "Itachi Pursuit Mission",
+			"Affiliation": ["Iwagakure"]
+		},
+		{
+			"Name": "Suigetsu Hozuki",
+			"Age": 16,
+			"Sex": "M",
+			"Height": 177.4,
+			"Rank": ["None"],
+			"Chakra": ["Water", "Wind"],
+			"Arc": "Itachi Pursuit Mission",
+			"Affiliation": ["Akatsuki", "Kirigakure", "Otogakure"]
+		},
+		{
+			"Name": "Suzaku Nara",
+			"Age": 42,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Jonin"],
+			"Chakra":["Yin"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Yagura Karatachi",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 143,
+			"Rank": ["Kage", "Jinchuriki"],
+			"Chakra": ["Water", "Wind"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Kirigakure"]
+		},
+		{
+			"Name": "Yahiko",
+			"Age": -115,
+			"Sex": "M",
+			"Height": 176.5,
+			"Rank": ["None"],
+			"Chakra": ["Water", "Fire", "Wind"],
+			"Arc": "Tale of Jiraiya the Gallant",
+			"Affiliation": ["Akatsuki", "Amegakure"]
+		},
+		{
+			"Name": "Yamato",
+			"Age": 26,
+			"Sex": "M",
+			"Height": 178,
+			"Rank": ["Anbu", "Jonin"],
+			"Chakra": ["Wood", "Earth", "Water", "Yang"],
+			"Arc": "Tenchi Bridge Reconnaissance Mission",
+			"Affiliation": ["Konohagakure", "Root", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Yashamaru",
+			"Age": -127,
+			"Sex": "M",
+			"Height": 170.1,
+			"Rank": ["Anbu"],
+			"Chakra": ["Medical"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Sunagakure"]
+		},
+		{
+			"Name": "Yoroi Akado",
+			"Age": 23,
+			"Sex": "M",
+			"Height": 180,
+			"Rank": ["Genin"],
+			"Chakra": ["Water", "Yin"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure", "Otogakure"]
+		},
+		{
+			"Name": "Yugito Nii",
+			"Age": -129,
+			"Sex": "F",
+			"Height": 170.2,
+			"Rank": ["Jonin"],
+			"Chakra": ["Fire"],
+			"Arc": "Akatsuki Suppression Mission",
+			"Affiliation": ["Kumogakure"]
+		},
+		{
+			"Name": "Yura",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 173,
+			"Rank": ["Jonin"],
+			"Chakra": ["None"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Sunagakure", "Akatsuki"]
+		},
+		{
+			"Name": "Tayuya",
+			"Age": 14,
+			"Sex": "F",
+			"Height": 148.2,
+			"Rank": ["None"],
+			"Chakra": ["Yin", "Curse Mark"],
+			"Arc": "Konoha Crush",
+			"Affiliation": ["Otogakure", "Sound Four"]
+		},
+		{
+			"Name": "Temari (Part 1)",
+			"Age": 15,
+			"Sex": "F",
+			"Height": 157.3,
+			"Rank": ["Genin"],
+			"Chakra": ["Wind"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Sunagakure"]
+		},
+		{
+			"Name": "Temari (Part 2)",
+			"Age": 19,
+			"Sex": "F",
+			"Height": 165,
+			"Rank": ["Jonin"],
+			"Chakra": ["Wind"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Allied Shinobi Forces", "Konohagakure", "Sunagakure"]
+		},
+		{
+			"Name": "Ten-Tails",
+			"Age": -2,
+			"Sex": "B",
+			"Height": -1,
+			"Rank": ["Tailed Beast"],
+			"Chakra": ["Wood", "Fire", "Wind", "Lightning", "Earth", "Water", "Wood", "Yin", "Yang", "Yin-Yang"],
+			"Arc": "Fourth Shinobi World War: Climax",
+			"Affiliation": ["None"]
+		},
+		{
+			"Name": "Tenten (Part 1)",
+			"Age": 13,
+			"Sex": "F",
+			"Height": 154.3,
+			"Rank": ["Genin"],
+			"Chakra": ["None"],
+			"Arc": "Chunin Exams",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Tenten (Part 2)",
+			"Age": 17,
+			"Sex": "F",
+			"Height": 164,
+			"Rank": ["Chunin"],
+			"Chakra": ["None"],
+			"Arc": "Kazekage Rescue Mission",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Third Kazekage",
+			"Age": -1,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["Kage"],
+			"Chakra": ["Magnet", "Wind", "Earth"],
+			"Arc": "Kaguya Otsutsuki Strikes",
+			"Affiliation": ["Sunagakure"]
+		},
+		{
+			"Name": "Tobi (Zetsu)",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 180,
+			"Rank": ["None"],
+			"Chakra": ["Wood", "Earth", "Water", "Fire", "Wind", "Lightning"],
+			"Arc": "Birth of the Ten-Tails' Jinchuriki",
+			"Affiliation": ["Akatsuki"]
+		},
+		{
+			"Name": "Tobirama Senju",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 182.3,
+			"Rank": ["Kage"],
+			"Chakra": ["Water", "Fire", "Wind", "Lightning", "Earth", "Yin", "Yang"],
+			"Arc": "Konoha Crush",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Tokuma Hyuga",
+			"Age": 25,
+			"Sex": "M",
+			"Height": -1,
+			"Rank": ["None"],
+			"Chakra": ["None"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
+		},
+		{
+			"Name": "Toneri Otsutsuki",
+			"Age": -2,
+			"Sex": "M",
+			"Height": 184,
+			"Rank": ["None"],
+			"Chakra": ["Fire", "Wind", "Lightning", "Earth", "Water", "Yin", "Yang", "Yin-Yang", "Tenseigan"],
+			"Arc": "New Era",
+			"Affiliation": ["Moon"]
+		},
+		{
+			"Name": "Toroi",
+			"Age": -1,
+			"Sex": "M",
+			"Height": 183.4,
+			"Rank": ["Jonin"],
+			"Chakra": ["Magnet", "Wind", "Earth"],
+			"Arc": "Fourth Shinobi World War: Confrontation",
+			"Affiliation": ["Kumogakure"]
+		},
+		{
+			"Name": "Torune Aburame",
+			"Age": 19,
+			"Sex": "M",
+			"Height": 178.3,
+			"Rank": ["Anbu"],
+			"Chakra": ["None"],
+			"Arc": "Five Kage Summit",
+			"Affiliation": ["Konohagakure", "Root"]
+		},
+		{
+			"Name": "Tsume Inuzuka",
+			"Age": 36,
+			"Sex": "F",
+			"Height": 163,
+			"Rank": ["Jonin"],
+			"Chakra": ["None"],
+			"Arc": "Konoha Crush",
+			"Affiliation": ["Konohagakure"]
+		},
+		{
+			"Name": "Tsunade",
+			"Age": 51,
+			"Sex": "F",
+			"Height": 163.1,
+			"Rank": ["Kage", "Medical"],
+			"Chakra": ["Lightning", "Earth", "Water", "Fire", "Yin", "Yang"],
+			"Arc": "Search for Tsunade",
+			"Affiliation": ["Konohagakure", "Shikkotsu Forest", "Allied Shinobi Forces"]
+		}
+]
