@@ -76,7 +76,7 @@
 			"Height": 190.8,
 			"Rank": ["Jonin"],
 			"Chakra": ["Wind", "Fire"],
-			"Arc": "Prologue - Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Konohagakure"]
 		},
 		{
@@ -176,7 +176,7 @@
 			"Height": 150.6,
 			"Rank": ["Genin"],
 			"Chakra": ["Earth", "Fire", "Yang"],
-			"Arc": "Prologue - Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Konahagakure"]
 		},
 		{
@@ -186,7 +186,7 @@
 			"Height": 172.3,
 			"Rank": ["Chunin"],
 			"Chakra": ["Earth", "Fire", "Yang"],
-			"Arc": "Prologue - Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Konahagakure"]
 		},
 		{
@@ -217,7 +217,7 @@
 			"Rank": ["Tailed Beast"],
 			"Chakra": ["None"],
 			"Arc": "Pain's Assault",
-			"Affiliation": ["Taigakure"]
+			"Affiliation": ["Takigakure"]
 		},
 		{
 			"Name": "Danzo Shimura",
@@ -266,7 +266,7 @@
 			"Height": 181.4,
 			"Rank": ["Jonin"],
 			"Chakra": ["Fire"],
-			"Arc": "Prologue - Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Konahagakure"]
 		},
 		{
@@ -356,7 +356,7 @@
 			"Height": 1700,
 			"Rank": ["Summon", "Toad"],
 			"Chakra": ["Water"],
-			"Arc": "Prologue - Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Mount Myoboku", "Konahagakure"]
 		},
 		{
@@ -446,7 +446,7 @@
 			"Height": 155.9,
 			"Rank": ["Jonin"],
 			"Chakra": ["Ice", "Water", "Wind"],
-			"Arc": "Prologue - Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Kirigakure"]
 		},
 		{
@@ -526,7 +526,7 @@
 			"Height": 148.3,
 			"Rank": ["Genin"],
 			"Chakra": ["Byakugan"],
-			"Arc": "Prologue - Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Konahagakure"]
     	},
 		{
@@ -536,7 +536,7 @@
 			"Height": 160,
 			"Rank": ["Chunin"],
 			"Chakra": ["Byakugan", "Fire", "Lightning"],
-			"Arc": "Prologue - Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
     	},
 		{
@@ -556,7 +556,7 @@
         	"Height": 163.1,
         	"Rank": ["Kage"],
         	"Chakra": ["Fire", "Wind", "Earth", "Lightning", "Water", "Yin", "Yang"],
-        	"Arc": "Prologue - Land of Waves",
+        	"Arc": "Prologue: Land of Waves",
         	"Affiliation": ["Konahagakure"]
     	},
 		{
@@ -676,7 +676,7 @@
         	"Height": 151.2,
         	"Rank": ["Genin"],
         	"Chakra": ["Medical"],
-        	"Arc": "Prologue - Land of Waves",
+        	"Arc": "Prologue: Land of Waves",
         	"Affiliation": ["Konahagakure"]
     	},
 		{
@@ -686,7 +686,7 @@
         	"Height": 162.2,
         	"Rank": ["Chunin"],
         	"Chakra": ["Medical", "Earth", "Water", "Fire", "Yin", "Yang"],
-        	"Arc": "Prologue - Land of Waves",
+        	"Arc": "Prologue: Land of Waves",
         	"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
     	},
 		{
@@ -716,7 +716,7 @@
         	"Height": 178,
         	"Rank": ["Chunin"],
         	"Chakra": ["Fire", "Water", "Yin"],
-        	"Arc": "Prologue - Land of Waves",
+        	"Arc": "Prologue: Land of Waves",
         	"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
     	},
 		{
@@ -766,7 +766,7 @@
         	"Height": 169,
         	"Rank": ["Chunin"],
         	"Chakra": ["Water"],
-        	"Arc": "Prologue - Land of Waves",
+        	"Arc": "Prologue: Land of Waves",
         	"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
     	},
 		{
@@ -774,8 +774,8 @@
         	"Age": 20,
         	"Sex": "M",
         	"Height": 176.2,
-        	"Rank": ["Genin", "Medical"],
-        	"Chakra": ["Earth", "Water", "Yin", "Yang", "Wind"],
+        	"Rank": ["Genin"],
+        	"Chakra": ["Earth", "Water", "Yin", "Yang", "Wind", "Medical"],
         	"Arc": "Chunin Exams",
         	"Affiliation": ["Konahagakure", "Root", "Otogakure"]
     	},
@@ -784,8 +784,8 @@
         	"Age": 24,
         	"Sex": "M",
         	"Height": 177,
-        	"Rank": ["Medical", "Sage"],
-        	"Chakra": ["Earth", "Water", "Yin", "Yang", "Wind", "Curse Mark", "Shikotsumyaku"],
+        	"Rank": ["Sage"],
+        	"Chakra": ["Earth", "Water", "Yin", "Yang", "Wind", "Curse Mark", "Shikotsumyaku", "Medical"],
         	"Arc": "Tenchi Bridge Reconnaissance Mission",
         	"Affiliation": ["Otogakure", "Ryuchi Cave", "Akatsuki"]
     	},
@@ -806,8 +806,8 @@
         	"Height": 181,
         	"Rank": ["Jonin", "Anbu"],
         	"Chakra": ["Sharingan", "Fire", "Wind", "Earth", "Lightning", "Water", "Yin", "Yang"],
-        	"Arc": "Prologue - Land of Waves",
-        	"Affiliation": ["Konahagakure", "Anbu"]
+        	"Arc": "Prologue: Land of Waves",
+        	"Affiliation": ["Konahagakure"]
     	},
 		{
         	"Name": "Kakashi Hatake (Part 2)",
@@ -896,7 +896,7 @@
         	"Height": 151.2,
         	"Rank": ["Genin"],
         	"Chakra": ["Earth", "Yang"],
-        	"Arc": "Prologue - Land of Waves",
+        	"Arc": "Prologue: Land of Waves",
         	"Affiliation": ["Konahagakure"]
     	},
 		{
@@ -1046,7 +1046,7 @@
         	"Height": -1,
         	"Rank": ["Sage", "Tailed Beast"],
         	"Chakra": ["Fire", "Wind"],
-        	"Arc": "Prologue - Land of Waves",
+        	"Arc": "Prologue: Land of Waves",
         	"Affiliation": ["Konahagakure", "Allied Shinobi Forces"]
     	},
 		{
@@ -1136,7 +1136,7 @@
 			"Height": 178,
 			"Rank": ["Chunin"],
 			"Chakra": ["Water"],
-			"Arc": "Prologue - Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Kirigakure"]
 		},
 		{
@@ -1174,8 +1174,8 @@
 			"Age": -124,
 			"Sex": "M",
 			"Height": 179.2,
-			"Rank": ["Kage", "Sage"], 
-			"Chakra": ["Fire", "Wind", "Lightning", "Yin", "Yang", "Nature", "Jinchuriki"],
+			"Rank": ["Kage", "Sage", "Jinchuriki"], 
+			"Chakra": ["Fire", "Wind", "Lightning", "Yin", "Yang"],
 			"Arc": "Fourth Shinobi World War: Climax",
 			"Affiliation": ["Konohagakure", "Mount Myoboku", "Allied Shinobi Forces"]
 		},
@@ -1216,7 +1216,7 @@
 			"Height": 179.4,
 			"Rank": ["Chunin"],
 			"Chakra": ["Earth", "Yin"],
-			"Arc": "Prologue — Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Konohagakure", "Otogakure"]
 		},
 		{
@@ -1306,7 +1306,7 @@
 			"Height": -1,
 			"Rank": ["Summon"],
 			"Chakra": ["None"],
-			"Arc": "Prologue — Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Konohagakure"]
 		},
 		{
@@ -1416,7 +1416,7 @@
 			"Height": 183,
 			"Rank": ["Anbu"],
 			"Chakra": ["Water"],
-			"Arc": "Prologue — Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Kirigakure"]
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"Rank": ["None"],
 			"Chakra": ["Water", "Jinchruiki"],
 			"Arc": "Six-Tails Unleashed",
-			"Affiliation": ["Kirigakure", "Tsuchigumo Clan"]
+			"Affiliation": ["Kirigakure"]
 		},
 		{
 			"Name": "Nagato",
@@ -1546,7 +1546,7 @@
 			"Height": 145.3,
 			"Rank": ["Genin", "Jinchuriki"],
 			"Chakra": ["Wind"],
-			"Arc": "Prologue — Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Konohagakure"]
 		},
 		{
@@ -1555,7 +1555,7 @@
 			"Sex": "M",
 			"Height": 166,
 			"Rank": ["Genin", "Kage", "Jinchuriki"],
-			"Chakra": ["Lava", "Magnet", "Boil", "Wind", "Lightning", "Earth", "Water", "Fire", "Lava", "Magnet", "Boil", "Yin", "Yang", "Yin-Yang"],
+			"Chakra": ["Lava", "Magnet", "Boil", "Wind", "Lightning", "Earth", "Water", "Fire", "Yin", "Yang", "Yin-Yang"],
 			"Arc": "Kazekage Rescue Mission",
 			"Affiliation": ["Konohagakure", "Mount Myoboku", "Allied Shinobi Forces"]
 		},
@@ -1565,7 +1565,7 @@
 			"Sex": "M",
 			"Height": 159.2,
 			"Rank": ["Genin"],
-			"Chakra": ["Fire", "Earth", "Water"],
+			"Chakra": ["Fire", "Earth", "Water", "Byakugan"],
 			"Arc": "Chunin Exams",
 			"Affiliation": ["Konohagakure"]
 		},
@@ -1575,7 +1575,7 @@
 			"Sex": "M",
 			"Height": 172.1,
 			"Rank": ["Jonin"],
-			"Chakra": ["Fire", "Earth", "Water"],
+			"Chakra": ["Fire", "Earth", "Water", "Byakugan"],
 			"Arc": "Kazekage Rescue Mission",
 			"Affiliation": ["Konohagakure", "Allied Shinobi Forces"]
 		},
@@ -1625,7 +1625,7 @@
 			"Sex": "M",
 			"Height": 155.1,
 			"Rank": ["None"],
-			"Chakra": ["Curse] Mark"],
+			"Chakra": ["Curse Mark"],
 			"Arc": "Konoha Crush",
 			"Affiliation": ["Otogakure", "Sound Four"]
 		},
@@ -1646,7 +1646,7 @@
 			"Height": 148.5,
 			"Rank": ["Genin"],
 			"Chakra": ["Medical", "Yin"],
-			"Arc": "Prologue — Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation": ["Konohagakure"]
 		},
 		{
@@ -1696,8 +1696,8 @@
 			"Height": "150.8",
 			"Rank": ["Genin"],
 			"Chakra": ["Sharingan", "Lightning", "Fire", "Yin", "Curse Mark"],
-			"Arc": "Prologue — Land of Waves",
-			"Affiliation": ["Otogakure", "Konohagakure", "Team Kakashi", "Sound Four"]
+			"Arc": "Prologue: Land of Waves",
+			"Affiliation": ["Otogakure", "Konohagakure", "Sound Four"]
 		},
 		{
 			"Name": "Sasuke Uchiha (Part 2)",
@@ -1707,7 +1707,7 @@
 			"Rank": ["Genin", "S-Rank"],
 			"Chakra": ["Sharingan", "Mangekyo Sharingan", "Eternal Mangekyo Sharingan", "Rinnegan", "Lightning", "Fire", "Wind", "Earth", "Water", "Yin", "Curse Mark"],
 			"Arc": "Tenchi Bridge Reconnaissance Mission",
-			"Affiliation": ["Akatsuki", "Ryuchi Cave", "Otogakure", "Konohagakure", "Team Kakashi", "Taka"]
+			"Affiliation": ["Akatsuki", "Ryuchi Cave", "Otogakure", "Konohagakure", "Taka"]
 		},
 		{
 			"Name": "Shibi Aburame",
@@ -1746,7 +1746,7 @@
 			"Height": 150.8,
 			"Rank": ["Chunin"],
 			"Chakra": ["Yin"],
-			"Arc": "Prologue — Land of Waves",
+			"Arc": "Prologue: Land of Waves",
 			"Affiliation":["Konohagakure"]
 		},
 		{
@@ -1816,7 +1816,7 @@
 			"Height": 180,
 			"Rank": ["Anbu"],
 			"Chakra": ["Sharingan", "Mangekyo Sharingan", "Fire", "Wind", "Lightning", "Yin"],
-			"Arc": "None",
+			"Arc": "Five Kage Summit",
 			"Affiliation": ["Konohagakure"]
 		},
 		{
@@ -2084,8 +2084,8 @@
 			"Age": 51,
 			"Sex": "F",
 			"Height": 163.1,
-			"Rank": ["Kage", "Medical"],
-			"Chakra": ["Lightning", "Earth", "Water", "Fire", "Yin", "Yang"],
+			"Rank": ["Kage"],
+			"Chakra": ["Lightning", "Earth", "Water", "Fire", "Yin", "Yang", "Medical"], 
 			"Arc": "Search for Tsunade",
 			"Affiliation": ["Konohagakure", "Shikkotsu Forest", "Allied Shinobi Forces"]
 		}
